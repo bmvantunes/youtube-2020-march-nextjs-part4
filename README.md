@@ -1,8 +1,8 @@
-# youtube-2020-march-nextjs-part3
-JS to TS Migration Strategy
+# youtube-2020-march-nextjs-part4
+Next.js API Routes with SQL Database
 
-Continuation of [part 3](https://github.com/bmvantunes/youtube-2020-feb-nextjs-part2)
+Continuation of [part 3](https://github.com/bmvantunes/youtube-2020-march-nextjs-part4)
 
-Slides available at: https://docs.google.com/presentation/d/1VB7XQNrMyKa0n8y2JvCzKEgSKt8Tdr0nKJWbPVyH8Ow/edit?usp=sharing
+Slides available at: https://docs.google.com/presentation/d/1izjQBjUYiF5PCSdDuHcsEAMFYkc--_BTLW-iCby70oI/edit?usp=sharing
 
 Let me know if you can access the slides!
