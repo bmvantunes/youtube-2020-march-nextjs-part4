@@ -6,6 +6,6 @@ Continuation of [part 3](https://github.com/bmvantunes/youtube-2020-march-nextjs
 Slides available at: https://docs.google.com/presentation/d/1izjQBjUYiF5PCSdDuHcsEAMFYkc--_BTLW-iCby70oI/edit?usp=sharing
 
 
-Youtube Video: https://youtu.be/B1qd-kpByf8
+Youtube Video: https://youtu.be/PxiQDo0CmDE
 
 Let me know if you can access the slides!
